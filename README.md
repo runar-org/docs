@@ -1,4 +1,5 @@
-# Runar Documentation
+![Logo](/banner.png)
+# Documentation
 Messaging system documenation. 
 
 ## Getting Started
