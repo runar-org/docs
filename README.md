@@ -1,11 +1,13 @@
-![Logo](/banner.png)
+![Logo](/banner.jpg)
 # Documentation
-Messaging system documenation. 
+Why sendlab?
+- Send passwords, memos, secrets, tokens, and high-privacy items with total security knowing they will be deleted once opened by the receipient.
+- As the first open source project to do this, you can finally trust that it is secure and verify that the messages are deleted after receipt.
 
 ## Getting Started
 
 1) Install Python, pip and then Django
-2) Clone repository at https://github.com/kaburkett/Runar.git
+2) Clone repository at https://github.com/runar-org/messenger.git
 3) Open project and setup database with ``python manage.py migrate``
 4) Serve the app with ``python manage.py runserver``
 
