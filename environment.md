@@ -2,6 +2,8 @@
 layout: page
 title: "Environment"
 permalink: /messenger/environment
+pagination:
+    enabled: true
 ---
 
 # Environment
