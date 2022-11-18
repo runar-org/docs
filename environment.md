@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Environment"
-permalink: /messenger/environment
+permalink: /messenger/environment/
 pagination:
     enabled: true
 ---

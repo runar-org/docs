@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ![Logo](/banner.jpg)
 # Documentation
 Why sendlab?
