@@ -20,4 +20,7 @@ Why sendlab?
 Determine most important features to an anonymous messaging system.
 
 * complete anonymity for sender and receiver 
-* ability to permanently delete messages after receiving or timeout
+* permanently delete messages after receiving or timeout
+* set your own decryption phrase or use the system provided encryption
+* use 0 javascript to allow TOR browser in high-security mode
+
