@@ -4,6 +4,7 @@ title: "Environment"
 permalink: /messenger/environment/
 pagination:
     enabled: true
+theme: jekyll-theme-minimal
 ---
 
 # Environment
